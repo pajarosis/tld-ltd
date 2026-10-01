@@ -1,0 +1,12 @@
+---
+import catalogJson from '../../data/prices.json';
+import PriceExplorer from '../components/PriceExplorer';
+import type { Catalog } from '../lib/catalog';
+import Base from '../layouts/Base.astro';
+
+const catalog = catalogJson as Catalog;
+---
+
+<Base>
+  <PriceExplorer client:load catalog={catalog} />
+</Base>
