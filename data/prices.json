@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T12:31:15.345Z",
+  "updatedAt": "2026-11-08T12:48:51.191Z",
   "registrars": [
     {
       "id": "porkbun",
@@ -1405,9 +1405,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 31.62,
+          "register": 31.45,
           "renew": 30.8,
-          "transfer": 31.62
+          "transfer": 31.45
         }
       }
     },
@@ -3091,9 +3091,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 40.19,
-          "renew": 40.19,
-          "transfer": 40.19
+          "register": 40.08,
+          "renew": 40.08,
+          "transfer": 40.08
         }
       }
     },
@@ -3117,9 +3117,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 40.19,
-          "renew": 40.19,
-          "transfer": 40.19
+          "register": 40.08,
+          "renew": 40.08,
+          "transfer": 40.08
         }
       }
     },
@@ -7218,7 +7218,7 @@
         "porkbun": {
           "register": 28.18,
           "renew": 28.18,
-          "transfer": 28.61
+          "transfer": 28.41
         }
       }
     },
@@ -10263,9 +10263,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 40.19,
-          "renew": 40.19,
-          "transfer": 40.3
+          "register": 40.08,
+          "renew": 40.08,
+          "transfer": 40.08
         }
       }
     },
@@ -10289,9 +10289,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 40.19,
-          "renew": 40.19,
-          "transfer": 40.3
+          "register": 40.08,
+          "renew": 40.08,
+          "transfer": 40.08
         }
       }
     },
@@ -10996,7 +10996,7 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 11.98,
+          "register": 12.02,
           "renew": 12.02,
           "transfer": 0
         }
@@ -11023,8 +11023,8 @@
       "prices": {
         "porkbun": {
           "register": 36.35,
-          "renew": 40.19,
-          "transfer": 40.19
+          "renew": 40.08,
+          "transfer": 40.08
         }
       }
     },
@@ -11049,8 +11049,8 @@
       "prices": {
         "porkbun": {
           "register": 36.35,
-          "renew": 40.19,
-          "transfer": 40.19
+          "renew": 40.08,
+          "transfer": 40.08
         }
       }
     },
@@ -13362,9 +13362,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 28.61,
-          "renew": 28.61,
-          "transfer": 28.61
+          "register": 28.41,
+          "renew": 28.41,
+          "transfer": 28.41
         }
       }
     },
