@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T15:18:30.171Z",
+  "updatedAt": "2026-11-10T14:24:32.459Z",
   "registrars": [
     {
       "id": "porkbun",
@@ -1122,8 +1122,8 @@
       "popular": true,
       "prices": {
         "porkbun": {
-          "register": 8.29,
-          "renew": 8.29,
+          "register": 8.31,
+          "renew": 8.31,
           "transfer": 0
         }
       }
@@ -2273,7 +2273,7 @@
       "popular": true,
       "prices": {
         "porkbun": {
-          "register": 8.76,
+          "register": 8.74,
           "renew": 9.18,
           "transfer": 8.98
         }
@@ -3267,8 +3267,8 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 8.29,
-          "renew": 8.29,
+          "register": 8.31,
+          "renew": 8.31,
           "transfer": 0
         }
       }
@@ -10237,8 +10237,8 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 8.29,
-          "renew": 8.29,
+          "register": 8.31,
+          "renew": 8.31,
           "transfer": 0
         }
       }
@@ -10563,9 +10563,9 @@
       "popular": true,
       "prices": {
         "porkbun": {
-          "register": 7.62,
-          "renew": 7.62,
-          "transfer": 7.62
+          "register": 7.63,
+          "renew": 7.63,
+          "transfer": 7.63
         }
       }
     },
@@ -10996,7 +10996,7 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 12.02,
+          "register": 11.98,
           "renew": 12.02,
           "transfer": 0
         }
@@ -13362,7 +13362,7 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 28.41,
+          "register": 28.18,
           "renew": 28.41,
           "transfer": 28.41
         }
@@ -13694,8 +13694,8 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 20.31,
-          "renew": 17.44,
+          "register": 20.36,
+          "renew": 17.48,
           "transfer": 0
         }
       }
