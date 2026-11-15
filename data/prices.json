@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T13:00:30.780Z",
+  "updatedAt": "2026-11-15T13:29:00.900Z",
   "registrars": [
     {
       "id": "porkbun",
@@ -1405,9 +1405,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 31.22,
+          "register": 31.13,
           "renew": 30.8,
-          "transfer": 31.22
+          "transfer": 31.13
         }
       }
     },
@@ -2274,7 +2274,7 @@
       "prices": {
         "porkbun": {
           "register": 8.65,
-          "renew": 9.15,
+          "renew": 9.13,
           "transfer": 8.98
         }
       }
@@ -3091,9 +3091,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 39.69,
-          "renew": 39.69,
-          "transfer": 39.69
+          "register": 39.6,
+          "renew": 39.6,
+          "transfer": 39.6
         }
       }
     },
@@ -3117,9 +3117,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 39.69,
-          "renew": 39.69,
-          "transfer": 39.69
+          "register": 39.6,
+          "renew": 39.6,
+          "transfer": 39.6
         }
       }
     },
@@ -10263,9 +10263,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 39.69,
-          "renew": 39.69,
-          "transfer": 39.69
+          "register": 39.6,
+          "renew": 39.6,
+          "transfer": 39.6
         }
       }
     },
@@ -10289,9 +10289,9 @@
       "popular": false,
       "prices": {
         "porkbun": {
-          "register": 39.69,
-          "renew": 39.69,
-          "transfer": 39.69
+          "register": 39.6,
+          "renew": 39.6,
+          "transfer": 39.6
         }
       }
     },
@@ -11023,8 +11023,8 @@
       "prices": {
         "porkbun": {
           "register": 36.35,
-          "renew": 39.69,
-          "transfer": 39.69
+          "renew": 39.6,
+          "transfer": 39.6
         }
       }
     },
@@ -11049,8 +11049,8 @@
       "prices": {
         "porkbun": {
           "register": 36.35,
-          "renew": 39.69,
-          "transfer": 39.69
+          "renew": 39.6,
+          "transfer": 39.6
         }
       }
     },
